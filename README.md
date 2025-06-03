@@ -3,6 +3,7 @@ Assignments [Summer Analytics 2025] [Consulting &amp; Analytics Club] [IIT Guwah
 
 ```
 Assignment/
-├── caciitg_sa2025_assignment_1_by_GyanaPriyadarshi.ipynb
-└── Cars.csv
+├── week_1_assignment.ipynb [CLEAN WEEK 1 ASSIGNMENT]
+├── SA2025_W1.ipynb [DEFAULT WEEK 1 ASSIGNMENT]
+└── Cars.csv [DATA SET FOR WEEK 1 ASSIGNMENT]
 ```
